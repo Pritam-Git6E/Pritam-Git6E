@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development and 3D modelling and Game development too if possible 
 - 🌱 I’m currently learning Various languages and Blender
 - 💞️ I’m looking to collaborate on projects if available 
-
+- 💻 You an reach me @ pritam9538@gmail.com
 
 <!---
 Pritam-Git6E/Pritam-Git6E is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
