@@ -6,7 +6,7 @@
 
 ## 🌟 Skills
 
-- 💻 **Programming Languages:** Python and Java
+- 💻 **Programming Languages:** Python and Java/C#
 - 🎨 **3D Modeling:** Proficient in creating stunning 3D models and animations.
 
 ## 📦 What You'll Find Here
