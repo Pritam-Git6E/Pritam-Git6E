@@ -22,7 +22,7 @@ I'm always open to collaboration and learning from fellow developers. Feel free 
 ## 📫 Get in Touch
 
 📧 Email: [My Email Address](mailto:pritam9538@gmail.com)
-📷 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+📷 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/pritam-chakravorty-62074628b)
 
 Let's code, create, and innovate together! 🚀
 
